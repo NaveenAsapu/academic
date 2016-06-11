@@ -1,0 +1,32 @@
+{
+  "name": "naveen-node-prototype",
+  "version": "1.0.0",
+  "description": "Node basic complete code with mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "admin"
+  ],
+  "author": "Naveen",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "cloudant": "^1.0.0-beta3",
+    "cloudfoundry-client": "^0.10.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.11.2",
+    "fs": "0.0.2",
+    "mongoose": "^4.4.17",
+    "multer": "^0.1.8",
+    "nodemailer": "^2.4.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "request": "^2.72.0",
+    "smtpapi": "^1.2.0"
+  }
+}
